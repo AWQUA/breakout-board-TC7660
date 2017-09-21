@@ -13,3 +13,5 @@
 ### 4. As far as we know, the decoupling capacitor C3 is optional for the TC7660; a 2.2uF decoupling capacitor is required for the TC7662 if the input voltage has a large impedance.
 
 ### 5. Both the TC7660 and TC7662 can source up to 20mA, which is more than sufficient for running some dual-supply op amps on a single supply board.
+
+### 6. Finally, note that the TC7660H is also available (roughly 20% for expensive than the TC7660) which has a higher switching frequency and only requires 1uF capacitors instead of 10uF capacitors.
